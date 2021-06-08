@@ -1,4 +1,4 @@
-// key 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
+
 require('dotenv').config()
 const sgMail = require('@sendgrid/mail')
 
